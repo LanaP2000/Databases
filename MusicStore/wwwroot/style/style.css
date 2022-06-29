@@ -1,0 +1,80 @@
+body {
+	background: linear-gradient(135deg, #fff, #fff5ee);
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+	font-family: 'Kaushan Script', cursive;
+}
+
+/* Section */
+.section_container {
+	width: 100%;
+	max-width: 1600px;
+	margin: 0 auto;
+	position: relative;
+}
+
+.section {
+	padding: 40px 0;
+}
+
+.section_header {
+	width: 100%;
+	max-width: 950px;
+	margin: 0 auto 40px;
+	text-align: center;
+	font-size: 24px;
+	color: #333;
+}
+
+/* About */
+.about {
+	margin-top: 80px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.about_item {
+	width: 500px;
+	margin: 10px;
+}
+
+	.about_item:hover .about_wallpaper img {
+		transform: translate3d(-10px, -10px, 0);
+	}
+
+	.about_item:hover .about_wallpaper img {
+		opacity: .7;
+	}
+
+.about_wallpaper {
+	background: linear-gradient(to bottom, #f1ddcf, #ffddf4);
+	transition: transform .2s linear;
+}
+
+	.about_wallpaper img {
+		display: block;
+		transition: opacity .1s linear;
+	}
+
+.mySlides {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 40px;
+}
+
+@media only screen and (max-width: 1080px) {
+	.about {
+		flex-direction: column;
+		margin-top: 40px;
+	}
+
+	.about_item {
+		margin: 12px;
+	}
+}
