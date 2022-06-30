@@ -1,6 +1,5 @@
 ﻿/// <summary>
-/// Lana Pantskalashvili
-/// 823358842
+/// Lana
 /// Book class with all the essential information about books (properties and constructors)
 /// </summary>
 
