@@ -3,8 +3,7 @@ using System;
 using System.Windows.Forms;
 
 /// <summary>
-/// Lana Pantskalashvili
-/// 823358842
+/// Lana
 /// MenuForm class with all the necessary methods/functions to implement menu
 /// </summary> 
 /// 
