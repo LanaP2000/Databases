@@ -7,8 +7,7 @@ using System.Collections;
 using System.Data.SqlClient;
 
 /// <summary>
-/// Lana Pantskalashvili
-/// 823358842
+/// Lana
 /// CustomerForm class with all the necessary methods/functions to implement customer page
 /// </summary> 
 /// 
