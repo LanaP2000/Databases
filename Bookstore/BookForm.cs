@@ -5,8 +5,7 @@ using System.Data.SqlClient;
 using System.Collections;
 
 /// <summary>
-/// Lana Pantskalashvili
-/// 823358842
+/// Lana
 /// BookForm class with all the necessary methods/functions to implement bookstore
 /// </summary> 
 /// 
