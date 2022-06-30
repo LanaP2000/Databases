@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 /// <summary>
-/// Lana Pantskalashvili
-/// 823358842
+/// Lana
 /// Customer class with all the essential information about customers (properties and constructors)
 /// </summary>
 /// 
