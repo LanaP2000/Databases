@@ -8,8 +8,7 @@ using System.Data;
 using System.Collections.Generic;
 
 /// <summary>
-/// Lana Pantskalashvili
-/// 823358842
+/// Lana
 /// OrderForm class with all the necessary methods/functions to implement order summary page
 /// </summary>
 
