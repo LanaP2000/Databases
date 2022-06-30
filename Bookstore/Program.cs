@@ -2,8 +2,7 @@
 using System.Windows.Forms;
 
 /// <summary>
-/// Lana Pantskalashvili
-/// 823358842
+/// Lana
 /// </summary>
 
 namespace Assignment2
