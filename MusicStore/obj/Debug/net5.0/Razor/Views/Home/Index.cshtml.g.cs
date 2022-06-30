@@ -64,7 +64,7 @@ using Music_Store.Models;
                 WriteLiteral(@"
     <title>Lana</title>
     <meta charset=""utf-8"">
-    <meta name=""Author"" content=""Lana Pantskalashvili"">
+    <meta name=""Author"" content=""Lana"">
     <meta name=""viewport"" content=""width=device-width, initial-scale=1.0"">
     <link rel=""stylesheet"" type=""text/css"" href=""style/style.css"">
     ");
